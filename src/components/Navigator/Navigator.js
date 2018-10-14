@@ -9,9 +9,8 @@ const Navigator = (props) =>{
 				<div>CLick Me</div>
 			</div>
 			<div id="left-menu">
-				<a href="#first" className="Menu-Item">Number 1</a>
-				<a href="#second" className="Menu-Item">Number 2</a>
-				<a href="#third" className="Menu-Item" >Number 3</a>
+				<a href="#about" className="Menu-Item">About</a>
+				<a href="#skill" className="Menu-Item">Skills</a>
 			</div>
 		</div>
 	);

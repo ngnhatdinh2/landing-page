@@ -1,0 +1,29 @@
+.skill-bars{
+	height: 90vh;
+	margin-top: 5em;
+  	margin-left: 10em;
+  	margin-right: 10em;
+}
+.skill-bars h2{
+  color: #7bf099;
+}
+.skill-container {
+  width: 100%;
+  background-color: #ddd;
+  border-radius: 1em;
+}
+
+.skills {
+  text-align: right;
+  padding: 10px;
+  color: white;
+  border-radius: 1em;
+}
+
+.html {width: 70%; background-color: #437a25;}
+.css {width: 30%; background-color: #a0d981;}
+.js {width: 55%; background-color: #60ae35;}
+.react {width: 60%; background-color: #59a131;}
+p{
+	font-size: 1.5em;
+}

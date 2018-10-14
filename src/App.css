@@ -6,12 +6,51 @@
   left: 0;
   z-index: -1;
 }
+.session1{
+  color: #7bf099;
+}
 .main{
-  margin: 100px 50px;
+  height: 80vh;
+  margin-top: 3em;
+  margin-left: 10em;
+  margin-right: 10em;
   text-align: center;
 }
 .main h1{
-  font-size: 4em;
+  margin-top: 2em;
+  font-size: 5em;
   letter-spacing: 1px;
   font-weight: 400;
+}
+.main h2{
+  font-size: 2em;
+  color: #7bf099;
+}
+.session2{
+/*  margin-top: 200px;*/
+  text-align: left;
+}
+.session2 p{
+  letter-spacing: 0.5px;
+  line-height: 1.5em;
+}
+.session2 span{
+  background-color: #aadd8e;
+}
+.icon-container{
+  display: flex;
+  justify-content: center;
+  margin-top: 40px;
+  padding:  5px left;
+}
+
+.icon-container img{
+  width: 4em;
+  height: 4em;
+  margin: 0 10px;
+  color: blue;
+  cursor: pointer;
+}
+h2{
+  font-size: 2em;
 }
